@@ -39,11 +39,15 @@ I don't just ship features. I understand the business first, then build the simp
 
 <br />
 
-🛠️ Technical Arsenal
+### Technical Arsenal 
+<br />
 System Foundations: Next.js 15, TypeScript, Node.js, Prisma.
+<br />
 Intelligence Layer: RAG Architecture, Vector DBs (LanceDB/pgvector), Local LLMs.
+<br />
 Infrastructure & Data: PostgreSQL, Docker, n8n Automation, AWS.
-Core Philosophy:
+<br />
+Core Philosophy: 
 Converting business chaos into scalable logic. Subtracting noise until only the 'Truth' remains.
 <br />
 <br />
