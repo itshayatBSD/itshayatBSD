@@ -34,14 +34,14 @@ I don't just ship features. I understand the business first, then build the simp
 ---
 
 
-###  System Metrics & Velocity
-
+<br />
 
 <br />
 
 
-Strategic Technical Arsenal
+## Strategic Technical Arsenal
 "The tools I choose aren't just for building features; they are for architecting reliability and scale."
+<br />
 <p align="left">
 <!-- Core Architecture -->
 <img src="https://img.shields.io/badge/Architecture-Next.js%20|%20TypeScript%20|%20Node.js-white?style=flat-square&logo=nextdotjs&logoColor=black" />
@@ -59,6 +59,15 @@ Stack Breakdown:
 The Core: Building type-safe, high-performance systems using Next.js 14/15 and TypeScript.
 Data & AI: Implementing pgvector and LanceDB for context-aware AI decision layers.
 Automation: Bridging disconnected business workflows via n8n and custom API integrations.
+
+
+<br />
+
+
+###  System Metrics & Velocity
+
+
+<br />
 
 
 
