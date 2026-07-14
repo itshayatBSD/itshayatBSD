@@ -39,31 +39,19 @@ I don't just ship features. I understand the business first, then build the simp
 
 <br />
 
+🛠️ Technical Arsenal
+System Foundations: Next.js 15, TypeScript, Node.js, Prisma.
+Intelligence Layer: RAG Architecture, Vector DBs (LanceDB/pgvector), Local LLMs.
+Infrastructure & Data: PostgreSQL, Docker, n8n Automation, AWS.
+Core Philosophy:
+Converting business chaos into scalable logic. Subtracting noise until only the 'Truth' remains.
+<br />
+<br />
 
-## Strategic Technical Arsenal
-"The tools I choose aren't just for building features; they are for architecting reliability and scale."
-<br />
-<br />
-<p align="left">
-<!-- Core Architecture -->
-## Architecture
-<img src="https://img.shields.io/badge/Next.js%30|%30TypeScript%30|%30Node.js-white?style=flat-square&logo=nextdotjs&logoColor=black" />
-<img src="https://img.shields.io/badge/React%30|%30Redux%30|%30Prisma-black?style=flat-square&logo=react&logoColor=61DAFB" />
-<br />
-<!-- Data & Intelligence -->
-## Intelligence
-<img src="https://img.shields.io/badge/Intelligence-RAG%30|%20Vector%30DB%30|%30LLMs-58a6ff?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL%30|%30Redis%30|%30Supabase-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<br />
-<!-- Operations -->
-<img src="https://img.shields.io/badge/Operations-Docker%20|%20n8n-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-<br />
-<br />
-Stack Breakdown:
-The Core: Building type-safe, high-performance systems using Next.js 15/16 and TypeScript.
-Data & AI: Implementing pgvector and LanceDB for context-aware AI decision layers.
-Automation: Bridging disconnected business workflows via n8n and custom API integrations.
+
+### Let's Connect 
+<br /> 
+Email: itshayat.ai@gmail.com | Portfolio: itshayat.vercel.app
 
 
 <br />
