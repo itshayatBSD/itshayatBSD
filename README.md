@@ -40,8 +40,7 @@ I don't just ship features. I understand the business first, then build the simp
 <br />
 
 ### Technical Arsenal 
-<br />
-## System Foundations: Next.js 15, TypeScript, Node.js, Prisma.
+**System Foundations **: Next.js 15, TypeScript, Node.js, Prisma.
 <br />
 Intelligence Layer: RAG Architecture, Vector DBs (LanceDB/pgvector), Local LLMs.
 <br />
