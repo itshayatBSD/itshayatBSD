@@ -53,7 +53,7 @@ Converting business chaos into scalable logic. Subtracting noise until only the 
 
 
 ## Let's Connect
-Email: itshayat.ai@gmail.com | <a href="itshayat.vercel.app">portfolio<a/>
+Email: itshayat.ai@gmail.com | <a href="https://itshayat.vercel.app">portfolio<a/>
 
 
 <br />
