@@ -36,11 +36,13 @@ I don't just ship features. I understand the business first, then build the simp
 
 <br />
 
+
 <br />
 
 
 ## Strategic Technical Arsenal
 "The tools I choose aren't just for building features; they are for architecting reliability and scale."
+<br />
 <br />
 <p align="left">
 <!-- Core Architecture -->
@@ -54,6 +56,7 @@ I don't just ship features. I understand the business first, then build the simp
 <!-- Operations -->
 <img src="https://img.shields.io/badge/Operations-Docker%20|%20AWS%20|%20Linux%20|%20n8n-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
+<br />
 <br />
 Stack Breakdown:
 The Core: Building type-safe, high-performance systems using Next.js 14/15 and TypeScript.
