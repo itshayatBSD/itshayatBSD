@@ -46,12 +46,14 @@ I don't just ship features. I understand the business first, then build the simp
 <br />
 <p align="left">
 <!-- Core Architecture -->
-<img src="https://img.shields.io/badge/Architecture-Next.js%20|%20TypeScript%20|%20Node.js-white?style=flat-square&logo=nextdotjs&logoColor=black" />
-<img src="https://img.shields.io/badge/Logic-React%20|%20Redux%20|%20Prisma-black?style=flat-square&logo=react&logoColor=61DAFB" />
+## Architecture
+<img src="https://img.shields.io/badge/Next.js%30|%30TypeScript%30|%30Node.js-white?style=flat-square&logo=nextdotjs&logoColor=black" />
+<img src="https://img.shields.io/badge/React%30|%30Redux%30|%30Prisma-black?style=flat-square&logo=react&logoColor=61DAFB" />
 <br />
 <!-- Data & Intelligence -->
-<img src="https://img.shields.io/badge/Intelligence-RAG%20|%20Vector%20DB%20|%20LLMs-58a6ff?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL%20|%20Redis%20|%20Supabase-336791?style=flat-square&logo=postgresql&logoColor=white" />
+## Intelligence
+<img src="https://img.shields.io/badge/Intelligence-RAG%30|%20Vector%30DB%30|%30LLMs-58a6ff?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL%30|%30Redis%30|%30Supabase-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <br />
 <!-- Operations -->
 <img src="https://img.shields.io/badge/Operations-Docker%20|%20n8n-2496ED?style=flat-square&logo=docker&logoColor=white" />
