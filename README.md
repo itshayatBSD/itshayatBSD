@@ -54,12 +54,12 @@ I don't just ship features. I understand the business first, then build the simp
 <img src="https://img.shields.io/badge/Database-PostgreSQL%20|%20Redis%20|%20Supabase-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <br />
 <!-- Operations -->
-<img src="https://img.shields.io/badge/Operations-Docker%20|%20AWS%20|%20Linux%20|%20n8n-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Operations-Docker%20|%20n8n-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 <br />
 <br />
 Stack Breakdown:
-The Core: Building type-safe, high-performance systems using Next.js 14/15 and TypeScript.
+The Core: Building type-safe, high-performance systems using Next.js 15/16 and TypeScript.
 Data & AI: Implementing pgvector and LanceDB for context-aware AI decision layers.
 Automation: Bridging disconnected business workflows via n8n and custom API integrations.
 
