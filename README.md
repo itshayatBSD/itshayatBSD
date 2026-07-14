@@ -52,9 +52,8 @@ Converting business chaos into scalable logic. Subtracting noise until only the 
 <br />
 
 
-### Let's Connect 
-<br /> 
-Email: itshayat.ai@gmail.com | Portfolio: itshayat.vercel.app
+## Let's Connect
+Email: itshayat.ai@gmail.com | <a href="itshayat.vercel.app">portfolio<a/>
 
 
 <br />
