@@ -1,18 +1,17 @@
 <div align="center">
+  
+  <a href="https://itshayat.vercel.app">
+    <img src="https://github.com/abuhayat001.png" width="150" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,255,255,0.5);" />
+  </a>
 
-# Abu Hayat — Itshayat
+  <br />
 
-### Full Stack Developer & Business System Builder
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Architecting+Digital+Brains;For+The+Physical+World;Solving+Real-World+Chaos" alt="Typing SVG" />
 
-*I build systems that solve real business problems.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-itshayat.vercel.app-black?style=for-the-badge&logo=vercel)](https://itshayat.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-itshayat-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itshayat/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:your@email.com)
-
+  <p align="center">
+    <strong>Helping businesses stop managing chaos and start scaling with clarity.</strong>
+  </p>
 </div>
-
----
 
 ## About Me
 
