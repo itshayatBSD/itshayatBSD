@@ -37,11 +37,11 @@ I don't just ship features. I understand the business first, then build the simp
 ### System Metrics
 
 <div align="center">
-  <!-- GitHub Stats Card (Mirror Server) -->
-  <img src="https://github-readme-stats-git-masterrstp-spec-anuraghazras-projects.vercel.app/api?username=itshayatBSD&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-sigma.vercel.app/api?username=itshayatBSD&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_id=1" alt="GitHub Stats" width="48%" />
   
-  <!-- Top Languages Card (Mirror Server) -->
-  <img src="https://github-readme-stats-git-masterrstp-spec-anuraghazras-projects.vercel.app/api/top-langs/?username=itshayatBSD&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="40%" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=itshayatBSD&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&cache_id=1" alt="Top Languages" width="40%" />
 </div>
 
 <br />
