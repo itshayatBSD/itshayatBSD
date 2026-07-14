@@ -34,20 +34,22 @@ I don't just ship features. I understand the business first, then build the simp
 ---
 
 
-### System Metrics
+### 📈 System Metrics & Velocity
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-tau-three.vercel.app/api?username=itshayatBSD&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" width="48%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-tau-three.vercel.app/api/top-langs/?username=itshayatBSD&layout=compact&theme=dark&hide_border=true&title_color=58a6ff" width="40%" />
+  <!-- ১. ৩ডি কন্ট্রিবিউশন গ্রাফ (এটি আপনার প্রোফাইলকে একদম ইউনিক করবে) -->
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=itshayatBSD" alt="3D Contrib" width="100%" />
+
+  <br />
+
+  <!-- ২. অ্যাক্টিভিটি গ্রাফ (এটি খুবই স্টেবল এবং দেখতে প্রফেশনাল ড্যাশবোর্ডের মতো) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itshayatBSD&theme=react-dark&area=true&hide_border=true" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshayatBSD&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <!-- ৩. স্টেবল স্ট্রাইক কার্ড (আপনার স্ক্রিনশটে এটি কাজ করছিল, তাই এটাই রাখা হলো) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshayatBSD&theme=dark&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff" alt="GitHub Streak" />
 </div>
-
 
