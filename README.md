@@ -1,15 +1,20 @@
 <div align="center">
-  
+
+  <!-- ১. আপনার প্রোফাইল লোগো (স্বয়ংক্রিয়ভাবে আপনার ছবি লোড হবে) -->
   <a href="https://itshayat.vercel.app">
-    <img src="https://github.com/itshayatBSD.png" width="150" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,255,255,0.5);" />
+    <img src="https://github.com/itshayatBSD.png" width="160" style="border-radius: 50%;" />
   </a>
 
   <br />
+  <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Architecting+Digital+Brains;For+The+Physical+World;Solving+Real-World+Chaos" alt="Typing SVG" />
+  <!-- ২. Creative Typing Headllines (কোনো টেকনোলজি নয়, শুধু চিন্তা) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Engineering+Logic+to+Predict+Chaos;Bridging+the+Gap+between+Bricks+and+Bits;Most+Software+Stores+History;I+Build+Software+That+Predicts+Future;Crafting+Intelligence+Not+Just+Code" alt="Typing SVG" />
+
+  <br />
 
   <p align="center">
-    <strong>Helping businesses stop managing chaos and start scaling with clarity.</strong>
+    <i>"Complexity is the noise. Clarity is the product."</i>
   </p>
 </div>
 
