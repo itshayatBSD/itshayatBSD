@@ -34,17 +34,8 @@ I don't just ship features. I understand the business first, then build the simp
 ---
 
 
-### 📈 System Metrics & Velocity
+###  System Metrics & Velocity
 
-<div align="center">
-  <!-- ১. ৩ডি কন্ট্রিবিউশন গ্রাফ (এটি আপনার প্রোফাইলকে একদম ইউনিক করবে) -->
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=itshayatBSD" alt="3D Contrib" width="100%" />
-
-  <br />
-
-  <!-- ২. অ্যাক্টিভিটি গ্রাফ (এটি খুবই স্টেবল এবং দেখতে প্রফেশনাল ড্যাশবোর্ডের মতো) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itshayatBSD&theme=react-dark&area=true&hide_border=true" width="100%" />
-</div>
 
 <br />
 
