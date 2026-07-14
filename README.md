@@ -37,11 +37,11 @@ I don't just ship features. I understand the business first, then build the simp
 ### System Metrics
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=itshayatBSD&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_id=1" alt="GitHub Stats" width="48%" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-tau-three.vercel.app/api?username=itshayatBSD&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" width="48%" />
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=itshayatBSD&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&cache_id=1" alt="Top Languages" width="40%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-tau-three.vercel.app/api/top-langs/?username=itshayatBSD&layout=compact&theme=dark&hide_border=true&title_color=58a6ff" width="40%" />
 </div>
 
 <br />
