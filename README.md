@@ -21,13 +21,16 @@
 ---
 
 <!-- Section 2: The Philosophy (Subtracting Noise) -->
-<div align="center">
+<div align="">
   <br />
   <img src="https://img.shields.io/badge/PHILOSOPHY-000000?style=for-the-badge&logoColor=white" />
   
   <blockquote style="font-size: 1.2em; border-left: 4px solid #fff; padding: 10px 20px; margin: 20px 0;">
     <i>"Most software is built to store history. I build systems that interpret it to predict the future."</i>
   </blockquote>
+
+  I'm a Full Stack Developer from Dhaka, Bangladesh.
+I specialize in building custom business systems — dashboards, SaaS MVPs, and automation tools for operations, construction, and engineering companies.
 
   <p align="center">
     <strong>My goal is to subtract the noise from messy operational data until only the 'Truth' remains.</strong>
