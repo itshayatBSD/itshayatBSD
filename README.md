@@ -34,11 +34,14 @@ I don't just ship features. I understand the business first, then build the simp
 ---
 
 
-### 📈 System Metrics
+### System Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itshayatBSD&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshayatBSD&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" alt="Top Languages" width="40%" />
+  <!-- GitHub Stats Card (Mirror Server) -->
+  <img src="https://github-readme-stats-git-masterrstp-spec-anuraghazras-projects.vercel.app/api?username=itshayatBSD&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card (Mirror Server) -->
+  <img src="https://github-readme-stats-git-masterrstp-spec-anuraghazras-projects.vercel.app/api/top-langs/?username=itshayatBSD&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="40%" />
 </div>
 
 <br />
