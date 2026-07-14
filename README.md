@@ -1,20 +1,19 @@
 <div align="center">
 
-  <!-- ১. আপনার প্রোফাইল লোগো (স্বয়ংক্রিয়ভাবে আপনার ছবি লোড হবে) -->
   <a href="https://itshayat.vercel.app">
-    <img src="https://github.com/itshayatBSD.png" width="160" style="border-radius: 50%;" />
+    <img src="https://github.com/abuhayat001.png" width="140" style="border-radius: 50%;" />
   </a>
 
   <br />
-  <br />
 
-  <!-- ২. Creative Typing Headllines (কোনো টেকনোলজি নয়, শুধু চিন্তা) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Engineering+Logic+to+Predict+Chaos;Bridging+the+Gap+between+Bricks+and+Bits;Most+Software+Stores+History;I+Build+Software+That+Predicts+Future;Crafting+Intelligence+Not+Just+Code" alt="Typing SVG" />
+  <h1>Hayat | Business Systems Architect</h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Solving+real-world+business+chaos+with+logic" alt="Typing SVG" />
 
   <br />
 
   <p align="center">
-    <i>"Complexity is the noise. Clarity is the product."</i>
+    <strong>Bridging the gap between physical operations and digital intelligence.</strong>
   </p>
 </div>
 
