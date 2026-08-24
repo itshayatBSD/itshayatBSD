@@ -6,7 +6,7 @@
 
   <br />
 
-  <h1>Hayat | Business Systems Architect</h1>
+  <h1>Hayat | Business Systems Developer</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Solving+real-world+business+chaos+with+logic" alt="Typing SVG" />
 
