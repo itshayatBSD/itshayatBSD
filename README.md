@@ -46,6 +46,9 @@ I don't just ship features. I understand the business first, then build the simp
 <br />
 => Infrastructure & Data: PostgreSQL, Docker, n8n Automation, AWS.
 <br />
+
+
+<br />
 => Core Philosophy: 
 Converting business chaos into scalable logic. Subtracting noise until only the 'Truth' remains.
 <br />
